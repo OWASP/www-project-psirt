@@ -14,7 +14,7 @@ pitch: A very brief, one-line description of your project
 create a platform in which researchers can report findings on application vulnerabilities, get assigned CVEs, track the remediation and fix and the triage with product owners  
 
 ### Road Map
-front end by march 2025
-connection to cycloneDX by June 2025
-AI and automation elements to proactively report the findings  by Sept 2025
-fully operational and accessible by Dec 2025
+front end by march 2025;
+connection to cycloneDX by June 2025;
+AI and automation elements to proactively report the findings  by Sept 2025;
+fully operational and accessible by Dec 2025;
