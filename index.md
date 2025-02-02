@@ -8,6 +8,7 @@ type: code
 pitch: A very brief, one-line description of your project
 
 ---
+<img src= "https://github.com/emergar07/www-project-psirt/blob/main/assets/images/OWASPSIRT-LOGO.jpg"/>
 
 create a platform in which researchers can report findings on application vulnerabilities, get assigned CVEs, track the remediation and fix and the triage with product owners  
 
